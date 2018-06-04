@@ -27,42 +27,42 @@ Admin şifresi değiştirme işlemi,
 Yapılabilir ...
 
 
-![alt text](Ekran_Goruntuleri/1.jpeg "Project Photo 1")
+![alt text](Ekran_Goruntuleri/1.jpg "Project Photo 1")
 
-![alt text](Ekran_Goruntuleri/2.jpeg "Project Photo 2")
+![alt text](Ekran_Goruntuleri/2.jpg "Project Photo 2")
 
-![alt text](Ekran_Goruntuleri/3.jpeg "Project Photo 3")
+![alt text](Ekran_Goruntuleri/3.jpg "Project Photo 3")
 
-![alt text](Ekran_Goruntuleri/4.jpeg "Project Photo 4")
+![alt text](Ekran_Goruntuleri/4.jpg "Project Photo 4")
 
-![alt text](Ekran_Goruntuleri/5.jpeg "Project Photo 5")
+![alt text](Ekran_Goruntuleri/5.jpg "Project Photo 5")
 
-![alt text](Ekran_Goruntuleri/6.jpeg "Project Photo 6")
+![alt text](Ekran_Goruntuleri/6.jpg "Project Photo 6")
 
-![alt text](Ekran_Goruntuleri/7.jpeg "Project Photo 7")
+![alt text](Ekran_Goruntuleri/7.jpg "Project Photo 7")
 
-![alt text](Ekran_Goruntuleri/8.jpeg "Project Photo 8")
+![alt text](Ekran_Goruntuleri/8.jpg "Project Photo 8")
 
-![alt text](Ekran_Goruntuleri/9.jpeg "Project Photo 9")
+![alt text](Ekran_Goruntuleri/9.jpg "Project Photo 9")
 
-![alt text](Ekran_Goruntuleri/10.jpeg "Project Photo 10")
+![alt text](Ekran_Goruntuleri/10.jpg "Project Photo 10")
 
-![alt text](Ekran_Goruntuleri/11.jpeg "Project Photo 11")
+![alt text](Ekran_Goruntuleri/11.jpg "Project Photo 11")
 
-![alt text](Ekran_Goruntuleri/12.jpeg "Project Photo 12")
+![alt text](Ekran_Goruntuleri/12.jpg "Project Photo 12")
 
-![alt text](Ekran_Goruntuleri/13.jpeg "Project Photo 13")
+![alt text](Ekran_Goruntuleri/13.jpg "Project Photo 13")
 
-![alt text](Ekran_Goruntuleri/14.jpeg "Project Photo 14")
+![alt text](Ekran_Goruntuleri/14.jpg "Project Photo 14")
 
-![alt text](Ekran_Goruntuleri/15.jpeg "Project Photo 15")
+![alt text](Ekran_Goruntuleri/15.jpg "Project Photo 15")
 
-![alt text](Ekran_Goruntuleri/16.jpeg "Project Photo 16")
+![alt text](Ekran_Goruntuleri/16.jpg "Project Photo 16")
 
-![alt text](Ekran_Goruntuleri/17.jpeg "Project Photo 17")
+![alt text](Ekran_Goruntuleri/17.jpg "Project Photo 17")
 
-![alt text](Ekran_Goruntuleri/18.jpeg "Project Photo 18")
+![alt text](Ekran_Goruntuleri/18.jpg "Project Photo 18")
 
-![alt text](Ekran_Goruntuleri/19.jpeg "Project Photo 19")
+![alt text](Ekran_Goruntuleri/19.jpg "Project Photo 19")
 
-![alt text](Ekran_Goruntuleri/20.jpeg "Project Photo 20")
+![alt text](Ekran_Goruntuleri/20.jpg "Project Photo 20")
