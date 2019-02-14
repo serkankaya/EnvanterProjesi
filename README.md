@@ -66,3 +66,5 @@ Yapılabilir ...
 ![alt text](Ekran_Goruntuleri/19.jpg "Project Photo 19")
 
 ![alt text](Ekran_Goruntuleri/20.jpg "Project Photo 20")
+
+MIT License
